@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cart/
+Disallow: /favorites/
+Sitemap: https://aleustim-boop.github.io/khata-tovariv/sitemap.xml
